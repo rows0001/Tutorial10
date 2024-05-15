@@ -1,0 +1,9 @@
+---
+title: "tutorial10"
+format: html
+editor: visual
+---
+
+```{r}
+library(dplyr)
+```
